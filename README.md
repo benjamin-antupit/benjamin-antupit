@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Zoom](https://zoom.us/) and [ZoomOSC](https://www.liminalet.com/zoomosc) event production solutions.
+- 🔭 I’m currently working on robotics engineering projects, lighting designs, [Zoom](https://zoom.us/) and [ZoomOSC](https://www.liminalet.com/zoomosc) event production solutions.
 - 🤔 Questions about ZoomOSC or other Liminal products/services? Happy to help!
 	- Find solutions and support on our [community Slack](https://join.slack.com/t/liminalpowerusers/shared_invite/zt-m0aqqn1h-KsdDL4KeX1tTKAx1~VwH_g) or via email (`info at liminalet dot com`).
 - 💬 Feel free to learn more about me or reach out on [LinkedIn](https://www.linkedin.com/in/benjamin-antupit/).
